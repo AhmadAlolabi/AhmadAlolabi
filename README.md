@@ -7,7 +7,7 @@
 ## 🔭 Currently Working On
 
 * Developing Java client-server applications.
-* Building web development projects using HTML and CSS.
+* Building web development projects using JAVA and PYTHON.
 * Improving my database and software development skills.
 
 ## 🌱 Currently Learning
