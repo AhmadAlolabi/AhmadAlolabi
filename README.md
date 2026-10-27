@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ahmad Alolabi 👋
 
-<!--
-**AhmadAlolabi/AhmadAlolabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergraduate at Middle East College, pursuing a BSc (Hons) in Computer Science.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Programming:** Java, Python
+* **Web Development:** HTML, CSS
+* **Databases:** SQL, JDBC
+* **Tools:** Git and GitHub
+* **Additional Knowledge:** Cloud Computing
+
+## Featured Projects
+
+### CampusConnectOman
+
+A Java client-server application using sockets, JDBC, and Apache Derby.
+
+[View Project](https://github.com/AhmadAlolabi/CampusConnectOman)
+
+## Current Goals
+
+* Improve my software development skills.
+* Build practical programming projects.
+* Develop my knowledge of databases and cloud computing.
+* Seek software development internship opportunities in Oman and Saudi Arabia.
