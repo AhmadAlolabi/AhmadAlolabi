@@ -190,8 +190,6 @@ The project aims to simplify communication between drivers, insurance service pr
 
 ## 📫 Connect With Me
 
-📧 **Email:** [ahmadalolabi2006@gmail.com](mailto:ahmadalolabi2006@gmail.com)
-
 💻 **GitHub:** [github.com/AhmadAlolabi](https://github.com/AhmadAlolabi)
 
 ---
