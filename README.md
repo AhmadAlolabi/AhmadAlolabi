@@ -1,21 +1,27 @@
-# Hi, I'm Ahmad Alolabi 👋
+# Hi, I'm Ahmad Alolabi! 👋
 
-🎓 **Computer Science Undergraduate** at Middle East College, Muscat, Oman.
+### 🎓 Computer Science Undergraduate | 💻 Aspiring Software Developer
 
-💻 **Aspiring Software Developer** passionate about building practical applications, solving problems, and continuously improving my programming skills.
+I'm a Computer Science undergraduate at **Middle East College, Muscat, Oman**, pursuing a **BSc (Hons) in Computer Science**.
 
-🌍 Based in Oman | Open to internship opportunities in Oman and Saudi Arabia.
+I'm passionate about software development, programming, databases, and building practical applications. I enjoy learning new technologies, solving problems, and collaborating with other developers.
+
+🌍 **Location:** Muscat, Oman  
+🎓 **Expected Graduation:** June 2028  
+💼 **Career Interests:** Software Development Internships & Junior Developer Opportunities  
+🌐 **Open to Opportunities:** Oman & Saudi Arabia
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing a **BSc (Hons) in Computer Science**.
 - ☕ Developing applications using **Java and Python**.
-- 🌐 Interested in **Web Development, Software Engineering, and Database Systems**.
-- 🗄️ Experienced with **SQL, Microsoft SQL Server, and Apache Derby** through academic projects.
-- 🤝 Enjoy collaborating on team-based software development projects.
-- 🚀 Currently seeking **Software Development Internship opportunities**.
+- 🌐 Building web projects with **HTML and CSS**.
+- 🗄️ Working with relational databases using **Microsoft SQL Server, SQL, and Apache Derby**.
+- ⚙️ Exploring **Software Engineering, Object-Oriented Programming, and System Design**.
+- ☁️ Learning about **Cloud Computing and Data Structures**.
+- 🤝 Experienced in academic individual and team-based projects.
+- 🚀 Currently working on **SALAM — Accident and Insurance Services Platform**.
 
 ---
 
@@ -37,7 +43,7 @@
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Apache Derby](https://img.shields.io/badge/Apache_Derby-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
-### ⚙️ Tools & Technologies
+### ⚙️ Development Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -48,62 +54,119 @@
 
 ## 🚀 Featured Projects
 
-### ☕ CampusConnect Oman — Java Client-Server Application
+### ☕ 1. CampusConnect Oman — Java Client-Server Application
 
-**Technologies:** Java, Socket Programming, JDBC, Apache Derby
+**Technologies:** Java, Socket Programming, JDBC, Apache Derby, SQL  
+**Development Period:** April 2026 – June 2026  
+**Project Type:** Individual Academic Project
 
-An academic Java client-server application developed to manage student service requests.
+A Java client-server application developed to manage student service requests.
 
-- Implemented communication between client and server using Java sockets.
-- Worked with database operations using JDBC and Apache Derby.
-- Applied object-oriented programming concepts.
+**Key Features:**
+- Implemented client-server communication using Java sockets.
+- Integrated database operations using JDBC and Apache Derby.
+- Developed logic to calculate service fees and applicable adjustments.
+- Applied Java programming and object-oriented programming concepts.
 
-🔗 [View Project](https://github.com/AhmadAlolabi/CampusConnectOman)
-
-### 🗄️ Chat Application Database
-
-**Technologies:** Microsoft SQL Server, T-SQL, ERD
-
-A relational database project designed to manage users, chats, chat memberships, and messages.
-
-- Created relational tables with primary and foreign keys.
-- Implemented SQL queries using `SELECT`, `JOIN`, and `GROUP BY`.
-- Designed an Entity-Relationship Diagram (ERD).
-
-📂 *Explore the repository on my GitHub profile.*
+🔗 **[View Project on GitHub](https://github.com/AhmadAlolabi/CampusConnectOman)**
 
 ---
 
-## 🚧 Upcoming Project
+### 🗄️ 2. Chat Application Database
+
+**Technologies:** Microsoft SQL Server, T-SQL, ERD, Database Design  
+**Year:** 2026  
+**Project Type:** Academic Database Project
+
+A relational database project designed to manage users, chats, chat memberships, and messages.
+
+**Key Features:**
+- Designed and implemented relational database tables.
+- Defined primary and foreign keys to establish relationships.
+- Used SQL commands such as `CREATE TABLE`, `INSERT INTO`, and `SELECT`.
+- Implemented queries using `INNER JOIN`, `LEFT JOIN`, and `GROUP BY`.
+- Created an Entity-Relationship Diagram (ERD).
+
+🔗 **[View Project on GitHub](https://github.com/AhmadAlolabi/Chat-Application-Database)**
+
+---
+
+### 🌐 3. iPhone E-Business Website
+
+**Technologies:** HTML5, CSS3  
+**Development Period:** April 2025 – June 2025  
+**Project Type:** Academic Team Project — 5 Members
+
+An iPhone-themed e-business website developed as part of a university Web Development assignment.
+
+**My Contributions:**
+- Developed the website's home page using HTML and CSS.
+- Designed the page layout, navigation menu, and footer.
+- Integrated multimedia content into the website.
+- Updated the home page with responsive styling for portfolio presentation.
+
+**Note:** The repository showcases my individual contribution to the original team project.
+
+🔗 **[View Project on GitHub](https://github.com/AhmadAlolabi/iPhone-Ebusiness-Website)**
+
+---
+
+### 📋 4. Restaurant Management System — Software Engineering Design
+
+**Technologies & Concepts:** Agile, SDLC, Requirements Analysis, UI Prototyping  
+**Year:** 2025  
+**Project Type:** Academic Team Project
+
+A Software Engineering coursework project focused on analyzing and designing a proposed Restaurant Management System.
+
+**Project Highlights:**
+- Analyzed the Agile software development process model.
+- Documented requirements-gathering techniques.
+- Examined functional and non-functional requirements.
+- Included an order management UI prototype developed as part of the collaborative coursework.
+
+**Note:** This project focuses on software analysis and design rather than a fully implemented application.
+
+🔗 **[View Project on GitHub](https://github.com/AhmadAlolabi/Restaurant-Management-System-Design)**
+
+---
+
+## 🚧 Current Project
 
 ### 🚗 SALAM — Accident and Insurance Services Platform
 
 **Status:** In Development  
-**Expected Completion:** January 2027
+**Development Period:** October 2026 – January 2027 (Expected)  
+**Project Type:** Academic Team Project
 
-SALAM is an academic team project focused on designing a web-based platform to support accident reporting and insurance-related services in Oman.
+SALAM is a proposed web-based platform designed to support accident reporting and insurance-related services in Oman.
+
+The project aims to simplify communication between drivers, insurance service providers, and accident assistance services.
 
 **Planned Features:**
+- 🚘 User registration and login.
+- 📍 Accident reporting with location information.
+- 📸 Accident photo uploads.
+- 📋 Insurance-related service requests.
+- 🔔 Case status tracking and notifications.
+- 👨‍💼 User and administrator dashboards.
+- 🌍 Arabic and English language support.
 
-- Accident reporting and case management.
-- Insurance service request tracking.
-- Accident location and photo submission.
-- User and administrator dashboards.
-- Case status updates and notifications.
+**Current Status:** The project is under development. Features listed above represent planned functionality and are not presented as completed implementations.
 
-The project is currently under development, with implementation and testing planned as part of the academic coursework.
-
-📌 *Project updates and source code will be shared when available.*
+📌 *The project repository and implementation details will be shared when available.*
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Java Programming and Object-Oriented Programming
-- Python Development
-- SQL and Database Management
-- Data Structures and Algorithms
-- Cloud Computing
+- ☕ Advanced Java Programming
+- 🧩 Object-Oriented Programming (OOP)
+- 🐍 Python Development
+- 🗄️ SQL and Database Management
+- 📊 Data Structures and Algorithms
+- ☁️ Cloud Computing
+- 🛠️ Software Engineering and System Design
 
 ---
 
@@ -111,22 +174,26 @@ The project is currently under development, with implementation and testing plan
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadAlolabi&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAlolabi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAlolabi&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
+
 ## 🎯 Career Goals
 
 - 💼 Gain professional experience through software development internships.
-- 🚀 Build and contribute to real-world software projects.
-- 📚 Strengthen my programming, database, and problem-solving skills.
-- 🤝 Collaborate with developers and contribute to open-source projects.
+- 🚀 Develop practical applications and strengthen my programming skills.
+- 🧠 Improve problem-solving and software engineering knowledge.
+- 🤝 Collaborate with developers and contribute to team projects.
+- 🌍 Explore software development opportunities in Oman and Saudi Arabia.
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
-🔗 **GitHub:** [AhmadAlolabi](https://github.com/AhmadAlolabi)
+📧 **Email:** [ahmadalolabi2006@gmail.com](mailto:ahmadalolabi2006@gmail.com)
+
+💻 **GitHub:** [github.com/AhmadAlolabi](https://github.com/AhmadAlolabi)
 
 ---
 
-⭐ *Thanks for visiting my GitHub profile! Feel free to explore my repositories.*
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories and projects.**
