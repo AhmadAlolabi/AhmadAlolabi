@@ -111,8 +111,7 @@ The project is currently under development, with implementation and testing plan
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadAlolabi&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAlolabi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600)
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAlolabi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600)---
 
 ## 🎯 Career Goals
 
